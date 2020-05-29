@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /2016/
+Sitemap: http://www.candicelouw.com/sitemap.xml
